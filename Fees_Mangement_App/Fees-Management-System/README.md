@@ -7,10 +7,6 @@ Back End : Database(Derby).
 IDE used : Netbeans.
 
 ## Below are the screenshot of the application.
-![Screenshot (83)](https://user-images.githubusercontent.com/58525668/82139883-f133ea00-9848-11ea-9e88-7e10b2b71dfa.png)
+![Screenshot (83)](https://d3tvd1u91rr79.cloudfront.net/bfce11fc75a06b9be8f3b0c2db981ea8/html/bg21.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2QzdHZkMXU5MXJyNzkuY2xvdWRmcm9udC5uZXRcL2JmY2UxMWZjNzVhMDZiOWJlOGYzYjBjMmRiOTgxZWE4XC9odG1sXC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjk1NzI0MzcyfX19XX0_&Signature=CBJTiUVJPXbZ19wbYfgaxwsHyaoBlYG8kmV4mfppPscFQUA~i0qkMdST7SXsJfu6j9x5m5~v4mX9DxuSJuNxzn1wobUaxmDLLDaWLbEewo3uUOtnih-tplJ~p~L4ZrYkKoMeXUvlS~JO3gvDmWoEsHO5DImhOGBTbz6~7gFkIpBoYYTk2TsYvzg1s8F7FtJYScJcUjVSSk4RGpWcUAwX8xdAUdOiM8C4fnvndP07TFDHkrOddnlKs~Rmt49w7c7X8Mw25BybhQpY-izNnma6yQjWka~t-9AcsBqzuuIDZaJCJLF7ObTOkR0msycTLMkCnPeRC7FV8Y7KA3Y0dD6xQA__&Key-Pair-Id=APKAJ535ZH3ZAIIOADHQ)
 
-![Screenshot (84)](https://user-images.githubusercontent.com/58525668/82139914-43750b00-9849-11ea-8468-478be568e87a.png)
-
-![Screenshot (85)](https://user-images.githubusercontent.com/58525668/82139921-5982cb80-9849-11ea-82ac-840965c3e05d.png)
-
-
+![Screenshot (84)](https://d3tvd1u91rr79.cloudfront.net/bfce11fc75a06b9be8f3b0c2db981ea8/html/bg25.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2QzdHZkMXU5MXJyNzkuY2xvdWRmcm9udC5uZXRcL2JmY2UxMWZjNzVhMDZiOWJlOGYzYjBjMmRiOTgxZWE4XC9odG1sXC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjk1NzI0MzcyfX19XX0_&Signature=CBJTiUVJPXbZ19wbYfgaxwsHyaoBlYG8kmV4mfppPscFQUA~i0qkMdST7SXsJfu6j9x5m5~v4mX9DxuSJuNxzn1wobUaxmDLLDaWLbEewo3uUOtnih-tplJ~p~L4ZrYkKoMeXUvlS~JO3gvDmWoEsHO5DImhOGBTbz6~7gFkIpBoYYTk2TsYvzg1s8F7FtJYScJcUjVSSk4RGpWcUAwX8xdAUdOiM8C4fnvndP07TFDHkrOddnlKs~Rmt49w7c7X8Mw25BybhQpY-izNnma6yQjWka~t-9AcsBqzuuIDZaJCJLF7ObTOkR0msycTLMkCnPeRC7FV8Y7KA3Y0dD6xQA__&Key-Pair-Id=APKAJ535ZH3ZAIIOADHQ)
